@@ -4,5 +4,5 @@
 
 <h3>Possible Technologies</h3>
 <ul>
-<li>[node-cryptojs](https://www.npmjs.com/package/node-cryptojs-aes)</li>
+<li><a href="https://www.npmjs.com/package/node-cryptojs-aes">node-cryptojs</a></li>
 </ul>
